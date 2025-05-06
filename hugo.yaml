@@ -23,7 +23,6 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
     weight: 1
   bn:
     languageCode: bn
